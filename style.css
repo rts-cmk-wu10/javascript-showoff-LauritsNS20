@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.formButton{
+    background-color: white;
+    color: black;
+}
+
+.searchForm__input{
+    background-color: white;
+    color: black;
+}

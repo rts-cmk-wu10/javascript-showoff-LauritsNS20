@@ -101,7 +101,7 @@ var myMusic = [
     {
         title: "Straight Outta Compton",
         published:1988,
-        genres: ["West Coast hip hop gangsta rap hardcore hip hop"],
+        genres: ["West Coast hip hop", "gangsta rap", "hardcore hip hop"],
         artist: ["N.W.A."],
     },
 ]
